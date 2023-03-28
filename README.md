@@ -1,2 +1,3 @@
 # WebSocketDemo
-A WebSocket demo based on Discord.Net
+
+A WebSocket demo based on the design of Discord.Net.
